@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\ChallengeModule\\ChallengeModule.csproj",
-      "projectName": "ChallengeModule",
-      "projectPath": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\ChallengeModule\\ChallengeModule.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\ExerciseCondicional\\ExerciseCondicional.csproj",
+      "projectName": "ExerciseCondicional",
+      "projectPath": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\ExerciseCondicional\\ExerciseCondicional.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\ChallengeModule\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\ExerciseCondicional\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

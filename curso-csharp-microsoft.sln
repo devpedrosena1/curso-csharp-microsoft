@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "CsharpProjec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais", "Condicionais\Condicionais.csproj", "{214D09FC-C6B9-4AE2-9AF7-39ECCC488D21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeModule", "ChallengeModule\ChallengeModule.csproj", "{A96DDC5C-2010-4B23-B00B-7FFEEBA63F0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCondicional", "ExerciseCondicional\ExerciseCondicional.csproj", "{A96DDC5C-2010-4B23-B00B-7FFEEBA63F0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
