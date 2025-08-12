@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais", "Condicionai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCondicional", "ExerciseCondicional\ExerciseCondicional.csproj", "{A96DDC5C-2010-4B23-B00B-7FFEEBA63F0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{3B3336B2-6DC8-4B63-9A5F-994F8F0E67A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{A96DDC5C-2010-4B23-B00B-7FFEEBA63F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A96DDC5C-2010-4B23-B00B-7FFEEBA63F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A96DDC5C-2010-4B23-B00B-7FFEEBA63F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3336B2-6DC8-4B63-9A5F-994F8F0E67A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3336B2-6DC8-4B63-9A5F-994F8F0E67A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3336B2-6DC8-4B63-9A5F-994F8F0E67A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3336B2-6DC8-4B63-9A5F-994F8F0E67A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 		{145180CF-A163-41B2-5D51-6806E7F01F1F} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
 		{214D09FC-C6B9-4AE2-9AF7-39ECCC488D21} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
 		{A96DDC5C-2010-4B23-B00B-7FFEEBA63F0E} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
+		{3B3336B2-6DC8-4B63-9A5F-994F8F0E67A7} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C3483CC7-C450-4CAB-8296-D5FDAFFF648C}
