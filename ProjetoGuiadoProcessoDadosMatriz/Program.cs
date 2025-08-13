@@ -28,3 +28,13 @@ int logan2 = 95;
 int logan3 = 87;
 int logan4 = 88;
 int logan5 = 96;
+
+int sophiaSum = 0;
+int andrewSum = 0;
+int emmaSum = 0;
+int loganSum = 0;
+
+decimal sophiaScore;
+decimal andrewScore;
+decimal emmaScore;
+decimal loganScore;
