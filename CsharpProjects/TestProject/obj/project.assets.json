@@ -8,24 +8,25 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pedro\\.nuget\\packages\\": {}
+    "/home/pedro-henrique-sena/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "/home/pedro-henrique-sena/Documents/fiap/csharp/curso-csharp-microsoft/CsharpProjects/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\3Semestre\\Advanced Business Development with .NET\\curso-csharp-microsoft\\CsharpProjects\\TestProject\\obj\\",
+      "projectPath": "/home/pedro-henrique-sena/Documents/fiap/csharp/curso-csharp-microsoft/CsharpProjects/TestProject/TestProject.csproj",
+      "packagesPath": "/home/pedro-henrique-sena/.nuget/packages/",
+      "outputPath": "/home/pedro-henrique-sena/Documents/fiap/csharp/curso-csharp-microsoft/CsharpProjects/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/pedro-henrique-sena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -44,7 +45,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

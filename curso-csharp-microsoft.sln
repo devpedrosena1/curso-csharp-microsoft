@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseMatriz", "ExerciseM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComentariosInCShap", "ComentariosInCShap\ComentariosInCShap.csproj", "{F47FCC5C-AC02-4987-BD8F-FD3135976600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoGuiadoProcessoDadosMatriz", "ProjetoGuiadoProcessoDadosMatriz\ProjetoGuiadoProcessoDadosMatriz.csproj", "{DEA87A89-887D-4C8B-8015-E25B05DE7C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{F47FCC5C-AC02-4987-BD8F-FD3135976600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F47FCC5C-AC02-4987-BD8F-FD3135976600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F47FCC5C-AC02-4987-BD8F-FD3135976600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA87A89-887D-4C8B-8015-E25B05DE7C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA87A89-887D-4C8B-8015-E25B05DE7C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA87A89-887D-4C8B-8015-E25B05DE7C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA87A89-887D-4C8B-8015-E25B05DE7C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{3B3336B2-6DC8-4B63-9A5F-994F8F0E67A7} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
 		{01A54CCC-B5EE-46DD-A2CD-29CB3FE1ED48} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
 		{F47FCC5C-AC02-4987-BD8F-FD3135976600} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
+		{DEA87A89-887D-4C8B-8015-E25B05DE7C6F} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C3483CC7-C450-4CAB-8296-D5FDAFFF648C}
